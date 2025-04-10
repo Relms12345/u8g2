@@ -550,10 +550,12 @@ Greek Extended	1F00–1FFF
   { 0,  0, "profont12.bdf", 		"profont12", 		4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
   { 0,  0, "profont15.bdf", 		"profont15", 		4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
   { 0,  0, "profont17.bdf", 		"profont17", 		4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  "-r 72 -p 18", "ProFont.ttf",             "profont18",            4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  "-r 72 -p 19", "ProFont.ttf",             "profont19",            4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  "-r 72 -p 20", "ProFont.ttf",             "profont20",            4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  "-r 72 -p 21", "ProFont.ttf",             "profont21",            4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
   { 0,  0, "profont22.bdf", 		"profont22", 		4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
   { 0,  0, "profont29.bdf", 		"profont29", 		4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
-  
-  { 0,  "-r 72 -p 20", "ProFont.ttf",             "profont20",            4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
 
   { "-y 0 -th 2 -tv 3",  0, "profont29.bdf",	"profont29_2x3",	4, 0, BM_8, FM_8, MM_F|MM_R|MM_N, "" , ""},
 
