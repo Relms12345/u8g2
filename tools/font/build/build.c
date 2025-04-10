@@ -553,6 +553,8 @@ Greek Extended	1F00–1FFF
   { 0,  0, "profont22.bdf", 		"profont22", 		4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
   { 0,  0, "profont29.bdf", 		"profont29", 		4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
   
+  { 0,  "-r 72 -p 20", "ProFont.ttf",             "profont20",            4, 0, BM_T|BM_M, FM_C, MM_F|MM_R|MM_N, "", "" },
+
   { "-y 0 -th 2 -tv 3",  0, "profont29.bdf",	"profont29_2x3",	4, 0, BM_8, FM_8, MM_F|MM_R|MM_N, "" , ""},
 
   

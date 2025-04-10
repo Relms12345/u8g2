@@ -700,6 +700,12 @@ u8g2_font_profont29_tn	LITERAL1
 u8g2_font_profont29_mf	LITERAL1
 u8g2_font_profont29_mr	LITERAL1
 u8g2_font_profont29_mn	LITERAL1
+u8g2_font_profont20_tf	LITERAL1
+u8g2_font_profont20_tr	LITERAL1
+u8g2_font_profont20_tn	LITERAL1
+u8g2_font_profont20_mf	LITERAL1
+u8g2_font_profont20_mr	LITERAL1
+u8g2_font_profont20_mn	LITERAL1
 u8x8_font_profont29_2x3_f	LITERAL1
 u8x8_font_profont29_2x3_r	LITERAL1
 u8x8_font_profont29_2x3_n	LITERAL1
