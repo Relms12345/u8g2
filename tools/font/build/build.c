@@ -559,12 +559,20 @@ Greek Extended	1F00–1FFF
 
   { "-y 0 -th 2 -tv 3",  0, "profont29.bdf",	"profont29_2x3",	4, 0, BM_8, FM_8, MM_F|MM_R|MM_N, "" , ""},
 
-  { 0,  0, "Aldrich11.bdf",             "aldrich11",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },  
-  { 0,  0, "Aldrich13.bdf",             "aldrich13",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },
-  { 0,  0, "Aldrich15.bdf",             "aldrich15",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },
-  { 0,  0, "Aldrich17.bdf",             "aldrich17",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },
-  { 0,  0, "Aldrich19.bdf",             "aldrich19",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },
-  { 0,  0, "Aldrich21.bdf",             "aldrich21",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "Aldrich11.bdf",             "aldrich11",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },  
+  { 0,  0, "Aldrich13.bdf",             "aldrich13",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "Aldrich15.bdf",             "aldrich15",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "Aldrich17.bdf",             "aldrich17",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "Aldrich19.bdf",             "aldrich19",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "Aldrich21.bdf",             "aldrich21",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+
+  
+  { 0,  0, "EncodeSans11.bdf",             "encodesans11",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "EncodeSans13.bdf",             "encodesans13",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "EncodeSans15.bdf",             "encodesans15",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "EncodeSans17.bdf",             "encodesans17",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "EncodeSans19.bdf",             "encodesans19",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "EncodeSans21.bdf",             "encodesans21",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
   /* Persian */
     { 0,  "-a -r 72 -p 10", "Samim.ttf",	"samim_10",						23, 0, BM_T, FM_C, MM_C, "32-65500", "_all" },
     { 0,  "-a -r 72 -p 12", "Samim.ttf",	"samim_12",						23, 0, BM_T, FM_C, MM_C, "32-65500", "_all" },
