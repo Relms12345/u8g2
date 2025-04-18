@@ -54,3 +54,7 @@ Makefile
 
 # binary
 otf2bdf
+
+# font files
+*.ttf
+*.bdf

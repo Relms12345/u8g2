@@ -203,7 +203,7 @@ struct groupinfo gi[] = {
   { "Integrated Mapping Ltd", "fntgrpim", "../../../../u8g2.wiki/fntgrpim.md", 		"fntgrpim.pre" }, 		/* 42 */ 
   { "Spleen", "fntgrpspleen", "../../../../u8g2.wiki/fntgrpspleen.md", 		"fntgrpspleen.pre" }, 		/* 43 */ 
   { "BoutiqueBitmap", "fntgrpbb", "../../../../u8g2.wiki/fntgrpbb.md", 		"fntgrpbb.pre" }, 		/* 44 */ 
-
+  { "Cinefi", "fntgrpcinefi", "../../../../u8g2.wiki/fntgrpcinefi.md",          "fntgrpcinefi.pre" },               /* 45 */  
 };
 
 #define BM_T	1	/* Transparent = build mode 0 proportional */
@@ -559,7 +559,12 @@ Greek Extended	1F00–1FFF
 
   { "-y 0 -th 2 -tv 3",  0, "profont29.bdf",	"profont29_2x3",	4, 0, BM_8, FM_8, MM_F|MM_R|MM_N, "" , ""},
 
-  
+  { 0,  0, "Aldrich11.bdf",             "aldrich11",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },  
+  { 0,  0, "Aldrich13.bdf",             "aldrich13",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "Aldrich15.bdf",             "aldrich15",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "Aldrich17.bdf",             "aldrich17",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "Aldrich19.bdf",             "aldrich19",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "Aldrich21.bdf",             "aldrich21",            45, 0, BM_T|BM_H, FM_C, MM_F|MM_R|MM_N, "", "" },
   /* Persian */
     { 0,  "-a -r 72 -p 10", "Samim.ttf",	"samim_10",						23, 0, BM_T, FM_C, MM_C, "32-65500", "_all" },
     { 0,  "-a -r 72 -p 12", "Samim.ttf",	"samim_12",						23, 0, BM_T, FM_C, MM_C, "32-65500", "_all" },
