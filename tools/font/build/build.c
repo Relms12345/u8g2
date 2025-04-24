@@ -580,6 +580,13 @@ Greek Extended	1F00–1FFF
   { 0,  0, "Oxanium17.bdf",             "oxanium17",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
   { 0,  0, "Oxanium19.bdf",             "oxanium19",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
   { 0,  0, "Oxanium21.bdf",             "oxanium21",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+
+  { 0,  0, "OxaniumBold11.bdf",             "oxaniumbold11",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "OxaniumBold13.bdf",             "oxaniumbold13",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "OxaniumBold15.bdf",             "oxaniumbold15",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "OxaniumBold17.bdf",             "oxaniumbold17",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "OxaniumBold19.bdf",             "oxaniumbold19",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
+  { 0,  0, "OxaniumBold21.bdf",             "oxaniumbold21",            45, 0, BM_T, FM_C, MM_F|MM_R|MM_N, "", "" },
   /* Persian */
     { 0,  "-a -r 72 -p 10", "Samim.ttf",	"samim_10",						23, 0, BM_T, FM_C, MM_C, "32-65500", "_all" },
     { 0,  "-a -r 72 -p 12", "Samim.ttf",	"samim_12",						23, 0, BM_T, FM_C, MM_C, "32-65500", "_all" },
